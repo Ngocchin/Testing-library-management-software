@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="folders"/>
+		<Node name="logs">
+			<Node name="log idx=0000">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.8991728819"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{5E2DB876-CB74-4F18-B843-796CC6049AD7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC01]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_34 PM_48_537\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.8998015278"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{675B36EA-0BA9-4942-95CB-4B20A191C150}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC01]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_35 PM_42_853\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9015633796"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{33E5196C-DD27-4A09-BF9D-0E5A5DB5BA13}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC02]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_38 PM_15_76\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9060561574"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{80F0B136-2A2F-4A5E-B743-6FB526B4C931}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC03]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_44 PM_43_252\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9083387963"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{ABFD9B3A-7188-48C6-8833-E981EFE991A4}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC04]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_48 PM_00_472\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9134432407"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{15146EC6-769D-42E6-8CC8-16E82E353F3C}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC05]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_55 PM_21_496\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9142444444"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{498D513D-60FB-4C81-A431-AD922BFA2E44}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC05]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_56 PM_30_720\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9160567593"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{1432A896-CC65-4DC7-A550-4C87622668C0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC05]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_9_59 PM_07_304\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9192645718"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8E1B69ED-810B-4D07-9DF7-2820BD042A06}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC06]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_03 PM_44_459\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0009">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9225427894"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{DAFE54B1-FFCE-4328-AA6E-DB633879653C}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC06]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_08 PM_27_697\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0010">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9277434375"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{FF47238D-4D53-4A8E-BCB7-7C4DDC965B39}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC07]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_15 PM_57_33\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0011">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9289103125"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{84D087F7-A0C6-4521-9E8C-8C7C6FCC8196}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC07]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_17 PM_37_851\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0012">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9305653704"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{587A6A8D-183B-49C1-ABCF-ECC108CFF820}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC08]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_20 PM_00_848\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0013">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9345729398"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7E3A8B90-0285-4BC3-B2CD-512DBB73DA32}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC09]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_25 PM_47_102\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0014">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.9369920833"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B1F82B36-6A04-47BE-813E-B4AAF8835075}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC10]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_29 PM_16_116\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0015">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45243.938661331"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3D185FB1-8228-45B2-9C92-03DCA7E9ACF7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC11]"/>
+				<Prp name="relpath" type="S" value="11_13_2023_10_31 PM_40_339\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0016">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0091108102"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{83781FCC-A0D3-42D1-B496-BECDB50AEB86}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC11]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_13 AM_07_174\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0017">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0099715162"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{9C9D7E88-65AF-4309-B660-73AC225D0C37}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC01]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_14 AM_21_539\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0018">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0104943056"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{928CFF35-5131-4375-B0AC-621D4046D806}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC02]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_15 AM_06_708\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0019">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0107229745"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8C23EBC7-D571-46CB-9DB0-1761F14A82B6}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC03]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_15 AM_26_465\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0020">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.010901956"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{983FD1D0-84AA-458A-A26B-429E80D452F7}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonThem\TC04]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_15 AM_41_929\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0021">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0114634144"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{43C9E740-3D74-4DCA-9183-115BCA230368}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC05]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_16 AM_30_439\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0022">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0119650926"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7858C96B-5700-4B73-B8DD-BC11EF895779}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC06]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_17 AM_13_784\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0023">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.01233875"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{99819404-05B1-42A5-BB06-0767592EA1C0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC07]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_17 AM_46_68\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0024">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0125999306"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{6EEE8982-B81B-4497-8FAC-72CE64B86A4A}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonSua\TC08]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_18 AM_08_634\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0025">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0136868982"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{E1D3522B-6576-4273-A5A6-F4563E9C1822}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC09]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_19 AM_42_548\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0026">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0139551157"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{B0D0ED75-4635-4726-853F-0A274F78C33B}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC10]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_20 AM_05_722\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0027">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0141194792"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{75D9A640-5B4A-44E4-8ABF-76F37405C451}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC11]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_20 AM_19_923\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0028">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="45244.0145206713"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{821B0FBF-DABD-48AD-BA0F-68A72C7624F0}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Test_ButtonXoa\TC11]"/>
+				<Prp name="relpath" type="S" value="11_14_2023_12_20 AM_54_586\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+		</Node>
+		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
+		<Prp name="version" type="S" value="11.0"/>
+	</Node>
+</Nodes>

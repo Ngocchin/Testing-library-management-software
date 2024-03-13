@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="dn" key="{FE4A5530-CBA8-45AC-9308-57AB5254AF07}" path="dn.js" />
+		<child name="dmk" key="{FFEA63AF-9344-4E52-8EF3-5B2D82356FD0}" path="dmk.js" />
+	</children>
+</Root>

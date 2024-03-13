@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{BE32CAD7-9D16-434C-96ED-354FBB96FB87}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45243.6377777778" objectName="Aliases.GUI.XtraFormQuanLySach.dataGridViewSach" objectLeft="254" objectTop="509" objectRight="1110" objectBottom="769" clickPointX="528" clickPointY="551" imageFileName="tcvi11685000110080.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45243.6377893519" objectName="Aliases.GUI.XtraFormQuanLySach.textEditSoLuongTon.TextBoxMaskBox" objectLeft="1028" objectTop="148" objectRight="1143" objectBottom="166" clickPointX="1072" clickPointY="152" imageFileName="tcvi11686531110083.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45243.6378009259" objectName="Aliases.GUI.XtraFormQuanLySach.textEditSoLuongTon" objectLeft="1023" objectTop="144" objectRight="1148" objectBottom="169" clickPointX="-397" clickPointY="-82" imageFileName="tcvi11687156110085.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45243.637962963" objectName="Aliases.GUI.XtraFormQuanLySach.simpleButtonCapNhat" objectLeft="440" objectTop="349" objectRight="534" objectBottom="378" clickPointX="497" clickPointY="363" imageFileName="tcvi11700625110088.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="TKS_001" key="{32E46C57-2902-4012-A09B-4A65D7B4B926}" path="TKS_001.tcKDTest" />
+		<child name="TKS_002" key="{750BF139-61CB-42C6-8BC2-85BD1A223C16}" path="TKS_002.tcKDTest" />
+		<child name="TKS_003" key="{DC942F4F-B90B-4208-B71A-D968FABB2519}" path="TKS_003.tcKDTest" />
+		<child name="TKS_004" key="{9E84AF5B-D4B5-49F0-B6AE-70394D525F52}" path="TKS_004.tcKDTest" />
+		<child name="TKDG_001" key="{D29CF50A-5821-43B5-B120-E990BC25F88C}" path="TKDG_001.tcKDTest" />
+		<child name="TKDG_002" key="{14F3CB58-2527-4CAB-976D-5A796705127B}" path="TKDG_002.tcKDTest" />
+		<child name="TKDG_003" key="{9E45A76B-C29A-4557-919F-4FB4E288792B}" path="TKDG_003.tcKDTest" />
+		<child name="TKDG_004" key="{EDF896E9-8071-4AE2-8E69-7E18A3E1E734}" path="TKDG_004.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{255285B8-5B8A-40A6-BAFA-0387E2D30FA8}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45243.7168981481" objectName="Aliases.GUI.XtraFormQuanLySach.simpleButtonXoa" objectLeft="875" objectTop="349" objectRight="969" objectBottom="378" clickPointX="941" clickPointY="356" imageFileName="tcvi18520703179240.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="45243.7169907407" objectName="Aliases.GUI.dlg.btnOK" objectLeft="205" objectTop="124" objectRight="299" objectBottom="153" clickPointX="269" clickPointY="136" imageFileName="tcvi18529453179241.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

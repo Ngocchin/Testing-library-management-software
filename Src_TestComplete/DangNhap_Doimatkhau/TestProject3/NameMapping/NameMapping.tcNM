@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{B78B55D5-E2D1-4D7D-BF30-12C76E19DF19}">
+				<TypeInfo Item0="{8E9BBBA2-379E-4A10-8612-55587920D249}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="GUI" Key="{D29D4112-57E1-4D7B-9094-FFCDC65556AB}">
+						<TypeInfo Item0="{F41690CE-62DE-4C68-AC1C-7669ECFCFC52}" />
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="GUI" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="dlg" Key="{0ACE9D5D-DC94-405D-914A-A0905D4B5140}">
+								<Image FileName="94307061" Left="0" Top="0" Right="393" Bottom="210" />
+								<TypeInfo Item0="{03CFB8B4-AA3D-4087-97AD-A69ED19951A0}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Static" Key="{B928B423-0F57-4977-A5BC-7315836BE29E}">
+										<Image FileName="94307061" Left="29" Top="81" Right="338" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Các trường nhập không được để trống." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{E13606A5-B749-4BC8-AE74-26D1FC5252BA}">
+										<Image FileName="1678239422" Left="246" Top="149" Right="359" Bottom="184" />
+										<TypeInfo Item0="{B979436C-E98E-4F54-A1B8-43D33E0BE9C9}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static2" Key="{3020B583-A300-48EC-B242-AA8C69E0D11F}">
+										<Image FileName="-1370925647" Left="28" Top="81" Right="222" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Tài khoản không tồn tại." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static3" Key="{259902FC-DA5B-4546-8D5E-DC5BF183F34A}">
+										<Image FileName="-2071508159" Left="28" Top="81" Right="144" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Sai mật khẩu." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static4" Key="{F6424673-58C9-49BA-85CD-CC999A5B4C4F}">
+										<Image FileName="-1223881437" Left="28" Top="81" Right="234" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chưa có đầy đủ thông tin." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static5" Key="{BC4C4BF2-DA28-46E1-9E9A-653376F099D1}">
+										<Image FileName="106724419" Left="28" Top="81" Right="217" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Không có tài khoản này." />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static6" Key="{7709D8CD-6B3F-419D-A1C3-BD2831794E2E}">
+										<Image FileName="-1822930101" Left="28" Top="81" Right="163" Bottom="104" />
+										<TypeInfo Item0="{87840401-496E-4F42-B027-2017FB7F1367}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Đã đổi mật khẩu." />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="FormLogin" Key="{5F784F7A-E6E5-47D0-A5CD-D423EFA8E7A8}">
+								<Image FileName="-1388870683" Left="0" Top="0" Right="1220" Bottom="845" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="FormLogin" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textBoxUsername" Key="{F8555346-78EA-464D-99F3-D9F7A0607D88}">
+										<Image FileName="-1388870683" Left="380" Top="419" Right="841" Bottom="451" />
+										<TypeInfo Item0="{F4A0AD08-E63E-4E04-8C6B-8C7B9B7323BE}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxUsername" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonDangNhap" Key="{EC9225B7-59B9-4ACB-AA7F-94D82977DC4B}">
+										<Image FileName="-629178390" Left="380" Top="537" Right="841" Bottom="618" />
+										<TypeInfo Item0="{B979436C-E98E-4F54-A1B8-43D33E0BE9C9}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="buttonDangNhap" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textBoxPassword" Key="{97FC0080-E248-4484-AA7D-9F14F5DF3038}">
+										<Image FileName="924447701" Left="380" Top="482" Right="841" Bottom="514" />
+										<TypeInfo Item0="{F4A0AD08-E63E-4E04-8C6B-8C7B9B7323BE}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxPassword" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="pictureBox1" Key="{985B5F34-ADB8-453B-9F7F-5AEDDB4A66CF}">
+										<Image FileName="1523117894" Left="1137" Top="41" Right="1212" Bottom="98" />
+										<TypeInfo Item0="{96A9F0A1-2928-4AC1-BFF6-F7BFA1EE4B08}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox1" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="frmAdmin" Key="{E8B01CF9-27F4-4BB6-B822-9067E90B44A8}">
+								<Image FileName="-361040215" Left="0" Top="0" Right="1496" Bottom="737" />
+								<TypeInfo Item0="{8A058041-9526-411F-90FF-3DAB9963B935}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="frmAdmin" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="pictureBox2" Key="{1B5A7B03-072B-468A-B638-09DE6411548B}">
+										<Image FileName="2047807482" Left="1409" Top="47" Right="1484" Bottom="104" />
+										<TypeInfo Item0="{96A9F0A1-2928-4AC1-BFF6-F7BFA1EE4B08}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox2" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="simpleButtonMuonSachAdmin" Key="{B72EF7A7-7001-48F1-B5DF-A3628EA177FB}">
+										<Image FileName="-1874472180" Left="819" Top="92" Right="999" Bottom="127" />
+										<TypeInfo Item0="{B979436C-E98E-4F54-A1B8-43D33E0BE9C9}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonMuonSachAdmin" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormMainThuThu" Key="{88C678B1-6E8A-46F7-8DC4-B823F4870A4F}">
+								<Image FileName="1313948561" Left="0" Top="0" Right="1950" Bottom="1089" />
+								<TypeInfo Item0="{8A058041-9526-411F-90FF-3DAB9963B935}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormMainThuThu" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="XtraFormDSNhanVien" Key="{A4C28787-829D-447A-A2C9-041477613063}">
+								<Image FileName="-1664992798" Left="0" Top="0" Right="795" Bottom="756" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormDSNhanVien" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textEditUsername" Key="{FD784C5B-4BE5-47E0-A5B6-B72B52FACD3C}">
+										<Image FileName="-1664992798" Left="291" Top="83" Right="525" Bottom="113" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textEditUsername" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TextBoxMaskBox" Key="{4EBBEDE1-A41E-429F-AF1F-BB8CFC40C8AE}">
+												<Image FileName="-1664992798" Left="297" Top="87" Right="519" Bottom="108" />
+												<TypeInfo Item0="{F4A0AD08-E63E-4E04-8C6B-8C7B9B7323BE}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="simpleButtonDoiMK" Key="{2ED79283-24FF-46D7-A225-E98F33CABF7E}">
+										<Image FileName="-1781956201" Left="461" Top="296" Right="574" Bottom="331" />
+										<TypeInfo Item0="{B979436C-E98E-4F54-A1B8-43D33E0BE9C9}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonDoiMK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="pictureBox1" Key="{5A0DB0A2-1ED4-46CA-856C-697D7F487DF5}">
+										<Image FileName="-554394312" Left="695" Top="50" Right="770" Bottom="107" />
+										<TypeInfo Item0="{96A9F0A1-2928-4AC1-BFF6-F7BFA1EE4B08}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox1" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textEditPassword" Key="{BB5205DF-7019-4B3E-AD43-37495ECBE359}">
+										<Image FileName="-1256197801" Left="291" Top="138" Right="525" Bottom="168" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textEditPassword" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TextBoxMaskBox" Key="{49B4013A-DDB6-413E-B7C4-71406DF2E52C}">
+												<Image FileName="-1256197801" Left="297" Top="143" Right="519" Bottom="164" />
+												<TypeInfo Item0="{F4A0AD08-E63E-4E04-8C6B-8C7B9B7323BE}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="GUI" Owner="{D29D4112-57E1-4D7B-9094-FFCDC65556AB}">
+			<Child Name="dlg" Owner="{0ACE9D5D-DC94-405D-914A-A0905D4B5140}">
+				<Child Name="Static" Owner="{B928B423-0F57-4977-A5BC-7315836BE29E}" />
+				<Child Name="btnOK" Owner="{E13606A5-B749-4BC8-AE74-26D1FC5252BA}" />
+				<Child Name="Static2" Owner="{3020B583-A300-48EC-B242-AA8C69E0D11F}" />
+				<Child Name="Static3" Owner="{259902FC-DA5B-4546-8D5E-DC5BF183F34A}" />
+				<Child Name="Static4" Owner="{F6424673-58C9-49BA-85CD-CC999A5B4C4F}" />
+				<Child Name="Static5" Owner="{BC4C4BF2-DA28-46E1-9E9A-653376F099D1}" />
+				<Child Name="Static6" Owner="{7709D8CD-6B3F-419D-A1C3-BD2831794E2E}" />
+			</Child>
+			<Child Name="FormLogin" Owner="{5F784F7A-E6E5-47D0-A5CD-D423EFA8E7A8}">
+				<Child Name="textBoxUsername" Owner="{F8555346-78EA-464D-99F3-D9F7A0607D88}" />
+				<Child Name="buttonDangNhap" Owner="{EC9225B7-59B9-4ACB-AA7F-94D82977DC4B}" />
+				<Child Name="textBoxPassword" Owner="{97FC0080-E248-4484-AA7D-9F14F5DF3038}" />
+				<Child Name="pictureBox1" Owner="{985B5F34-ADB8-453B-9F7F-5AEDDB4A66CF}" />
+			</Child>
+			<Child Name="frmAdmin" Owner="{E8B01CF9-27F4-4BB6-B822-9067E90B44A8}">
+				<Child Name="pictureBox2" Owner="{1B5A7B03-072B-468A-B638-09DE6411548B}" />
+				<Child Name="simpleButtonMuonSachAdmin" Owner="{B72EF7A7-7001-48F1-B5DF-A3628EA177FB}" />
+			</Child>
+			<Child Name="XtraFormMainThuThu" Owner="{88C678B1-6E8A-46F7-8DC4-B823F4870A4F}" />
+			<Child Name="XtraFormDSNhanVien" Owner="{A4C28787-829D-447A-A2C9-041477613063}">
+				<Child Name="textEditUsername" Owner="{FD784C5B-4BE5-47E0-A5B6-B72B52FACD3C}">
+					<Child Name="TextBoxMaskBox" Owner="{4EBBEDE1-A41E-429F-AF1F-BB8CFC40C8AE}" />
+				</Child>
+				<Child Name="simpleButtonDoiMK" Owner="{2ED79283-24FF-46D7-A225-E98F33CABF7E}" />
+				<Child Name="pictureBox1" Owner="{5A0DB0A2-1ED4-46CA-856C-697D7F487DF5}" />
+				<Child Name="textEditPassword" Owner="{BB5205DF-7019-4B3E-AD43-37495ECBE359}">
+					<Child Name="TextBoxMaskBox" Owner="{49B4013A-DDB6-413E-B7C4-71406DF2E52C}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{96449E46-6710-4A7B-A121-F06AD14AA80C}">
+	<children>
+		<child name="MuonSach" key="{F95F0910-8F5A-4E7C-BAC4-B1D09F1F1433}" path="MuonSach\MuonSach.mds" />
+	</children>
+	<testItems key="{6A506456-A170-4116-BC21-D386955FE3C9}">
+		<children>
+			<testItem key="{F95F0910-8F5A-4E7C-BAC4-B1D09F1F1433}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{0F0567FD-6880-45B3-89A0-67DA1FF29032}" />
+	<analysis key="{A97BE7A4-8F44-4134-BE26-956285D8BA12}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

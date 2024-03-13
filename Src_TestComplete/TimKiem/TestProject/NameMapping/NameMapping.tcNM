@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{E8B8A078-7300-4C41-BF81-5143D03679CC}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="GUI" Key="{E722A03D-69CE-424B-BF80-E16ADE07FE7E}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="GUI" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="FormLogin" Key="{D0229ECB-CC80-4A2A-B1D4-B54C9076B5F4}">
+								<Image FileName="1843713842" Left="0" Top="0" Right="947" Bottom="563" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="FormLogin" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textBoxUsername" Key="{6123A6A7-EB5B-4F1B-8C77-8FB18A14AD34}">
+										<Image FileName="1843713842" Left="294" Top="279" Right="651" Bottom="300" />
+										<TypeInfo Item0="{C9A61C8A-9017-433E-A17E-6D38E838035C}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxUsername" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textBoxPassword" Key="{C658DBC0-FCA2-4370-8B53-8C8B6FC36A6C}">
+										<Image FileName="1771569876" Left="294" Top="321" Right="651" Bottom="342" />
+										<TypeInfo Item0="{C9A61C8A-9017-433E-A17E-6D38E838035C}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxPassword" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonDangNhap" Key="{B7BE3F76-BA39-42D5-AF3E-F1EC82CE0E35}">
+										<Image FileName="2121503858" Left="294" Top="358" Right="652" Bottom="412" />
+										<TypeInfo Item0="{243BBD46-D19B-4AA5-8D79-A4A9366940A3}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="buttonDangNhap" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="pictureBox1" Key="{54355D2A-7451-495B-B9EE-9DCD74E4FAE3}">
+										<Image FileName="-1287710436" Left="883" Top="27" Right="941" Bottom="65" />
+										<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox1" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormMainThuThu" Key="{1DBD8A70-94C9-41AE-9706-633F401C2A2B}">
+								<Image FileName="1830600910" Left="0" Top="0" Right="1712" Bottom="726" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormMainThuThu" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="simpleButtonQuanLySach" Key="{2F0576A6-E92F-4680-B130-78AF213CBB61}">
+										<Image FileName="1026984570" Left="882" Top="71" Right="1022" Bottom="94" />
+										<TypeInfo Item0="{243BBD46-D19B-4AA5-8D79-A4A9366940A3}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonQuanLySach" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="pictureBox2" Key="{22FD70CD-24C6-4BF3-8086-F71B3E6EB6EE}">
+										<Image FileName="-1603414100" Left="1650" Top="26" Right="1708" Bottom="64" />
+										<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox2" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="simpleButtonTheThuVien" Key="{FCFC78BD-0EAB-487B-B52A-E58BBDB94FCB}">
+										<Image FileName="1650187224" Left="1058" Top="71" Right="1198" Bottom="94" />
+										<TypeInfo Item0="{243BBD46-D19B-4AA5-8D79-A4A9366940A3}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonTheThuVien" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormQuanLySach" Key="{7EA1D39A-B1A7-4488-B2F8-DA0BAFCC0BB4}">
+								<Image FileName="172109469" Left="0" Top="0" Right="1259" Bottom="642" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormQuanLySach" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textEditTimSach" Key="{D9AD9791-0212-442A-B771-85BCB1777C14}">
+										<Image FileName="172109469" Left="304" Top="370" Right="750" Bottom="390" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textEditTimSach" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TextBoxMaskBox" Key="{BC4B9180-68FC-4F15-92D5-7F4E487E2BCD}">
+												<Image FileName="172109469" Left="308" Top="373" Right="746" Bottom="387" />
+												<TypeInfo Item0="{C9A61C8A-9017-433E-A17E-6D38E838035C}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="pictureBox1" Key="{8DC60A3E-D6CC-4938-8F0A-F4CF42A322C8}">
+										<Image FileName="-1960477477" Left="1197" Top="25" Right="1255" Bottom="63" />
+										<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox1" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="dataGridViewSach" Key="{086128CB-5EAB-45C3-94C3-20061F36FB4B}">
+										<Image FileName="-1572027672" Left="236" Top="407" Right="1035" Bottom="615" />
+										<TypeInfo Item0="{E7D6AAC8-DC76-41D6-B73B-A38F0B820110}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="dataGridViewSach" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{6060C298-677A-4699-8404-3D6581029373}">
+								<Image FileName="-1022546853" Left="0" Top="0" Right="133" Bottom="140" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnOK" Key="{F8FEE94B-B615-4214-8403-76C93CB0D2D3}">
+										<Image FileName="-1022546853" Left="35" Top="99" Right="110" Bottom="122" />
+										<TypeInfo Item0="{243BBD46-D19B-4AA5-8D79-A4A9366940A3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormTheThuVien" Key="{D33A3D71-506D-49FE-85B5-607F884716E8}">
+								<Image FileName="317490177" Left="0" Top="0" Right="1270" Bottom="647" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormTheThuVien" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textEditTimDocGia" Key="{274DF61B-77C3-4B57-9424-401F1DE69B78}">
+										<Image FileName="-493869608" Left="237" Top="377" Right="475" Bottom="397" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textEditTimDocGia" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TextBoxMaskBox" Key="{88A69C69-B539-46CB-BCA4-309F7C28DCAE}">
+												<Image FileName="-493869608" Left="241" Top="380" Right="471" Bottom="394" />
+												<TypeInfo Item0="{C9A61C8A-9017-433E-A17E-6D38E838035C}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="DevExpress.XtraEditors.TextBoxMaskBox" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="pictureBox1" Key="{D4A9DF5A-E224-4000-A923-209B16AE60DE}">
+										<Image FileName="325958898" Left="1205" Top="28" Right="1263" Bottom="66" />
+										<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="pictureBox1" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{80E81C48-E34C-41BD-ADA5-C509BD7FC480}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{B49C8DEA-F4F7-4059-9ABB-2756C8E68991}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{F589BA3B-B4CB-4C7A-943C-7F0D6F9F8C07}">
+										<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Discord" Key="{7F1B0F38-F007-4CFF-8127-3580FEEA0BFD}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Discord" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{96A42AAF-909F-4902-BC92-E70B52EDA4EA}">
+								<Image FileName="-2049118463" Left="0" Top="0" Right="1128" Bottom="752" />
+								<TypeInfo Item0="{C2888BDD-0C3D-44DE-BD4E-00C1031B9E12}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="wmplayer" Key="{CDF7E277-E2E4-4EA1-8970-D272897F27E8}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="wmplayer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndWMPSkinHost" Key="{EF58D790-DC5F-447C-AFA3-E0E6C9050A60}">
+								<Image FileName="-1600818133" Left="0" Top="0" Right="1920" Bottom="1032" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="WMP Skin Host" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Windows Media Player" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="4" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="WMPPluginUIHost" Key="{8A574C77-1071-4F34-B191-532473145423}">
+										<Image FileName="-1600818133" Left="8" Top="31" Right="1912" Bottom="1024" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WMP Plugin UI Host" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CWmpControlCntr" Key="{AB771C2F-56C6-441E-9143-E9BCD51E4AA4}">
+												<Image FileName="-1600818133" Left="8" Top="31" Right="1912" Bottom="1024" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="CWmpControlCntr" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="WMPPluginUIHost" Key="{0A844B08-92FD-4306-A064-E852E5C29877}">
+														<Image FileName="-1600818133" Left="8" Top="31" Right="1912" Bottom="1024" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="WMP Plugin UI Host" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="CWmpControlCntr" Key="{FD6B1E2F-5932-451C-BFEA-8AE62ADFE27A}">
+																<Image FileName="-1600818133" Left="8" Top="31" Right="1912" Bottom="1024" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="CWmpControlCntr" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="EVRVideoHandler" Key="{EDA3E71E-E489-49A7-877C-464582CE2784}">
+																		<Image FileName="-1600818133" Left="26" Top="31" Right="1894" Bottom="1024" />
+																		<TypeInfo Item0="{3FF456EB-4E7F-4203-ACD6-1A703F0D68BC}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="EVRVideoHandler" />
+																			</Property>
+																			<Property Name="WndCaption">
+																				<Value Value="EVRVideoHandler" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="wps" Key="{85B1E220-E133-4270-86C9-55852296A428}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="wps" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndXLMAIN" Key="{9C7943D2-5D1F-4EBC-945F-E6BB5F23A7C3}">
+								<Image FileName="-488023805" Left="-7" Top="-7" Right="1913" Bottom="1025" />
+								<TypeInfo Item0="{0E863685-0F8E-46D4-95B0-C24FB410076B}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="XLMAIN" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="GUI" Owner="{E722A03D-69CE-424B-BF80-E16ADE07FE7E}">
+			<Child Name="FormLogin" Owner="{D0229ECB-CC80-4A2A-B1D4-B54C9076B5F4}">
+				<Child Name="textBoxUsername" Owner="{6123A6A7-EB5B-4F1B-8C77-8FB18A14AD34}" />
+				<Child Name="textBoxPassword" Owner="{C658DBC0-FCA2-4370-8B53-8C8B6FC36A6C}" />
+				<Child Name="buttonDangNhap" Owner="{B7BE3F76-BA39-42D5-AF3E-F1EC82CE0E35}" />
+				<Child Name="pictureBox1" Owner="{54355D2A-7451-495B-B9EE-9DCD74E4FAE3}" />
+			</Child>
+			<Child Name="XtraFormMainThuThu" Owner="{1DBD8A70-94C9-41AE-9706-633F401C2A2B}">
+				<Child Name="simpleButtonQuanLySach" Owner="{2F0576A6-E92F-4680-B130-78AF213CBB61}" />
+				<Child Name="pictureBox2" Owner="{22FD70CD-24C6-4BF3-8086-F71B3E6EB6EE}" />
+				<Child Name="simpleButtonTheThuVien" Owner="{FCFC78BD-0EAB-487B-B52A-E58BBDB94FCB}" />
+			</Child>
+			<Child Name="XtraFormQuanLySach" Owner="{7EA1D39A-B1A7-4488-B2F8-DA0BAFCC0BB4}">
+				<Child Name="textEditTimSach" Owner="{D9AD9791-0212-442A-B771-85BCB1777C14}">
+					<Child Name="TextBoxMaskBox" Owner="{BC4B9180-68FC-4F15-92D5-7F4E487E2BCD}" />
+				</Child>
+				<Child Name="pictureBox1" Owner="{8DC60A3E-D6CC-4938-8F0A-F4CF42A322C8}" />
+				<Child Name="dataGridViewSach" Owner="{086128CB-5EAB-45C3-94C3-20061F36FB4B}" />
+			</Child>
+			<Child Name="dlg" Owner="{6060C298-677A-4699-8404-3D6581029373}">
+				<Child Name="btnOK" Owner="{F8FEE94B-B615-4214-8403-76C93CB0D2D3}" />
+			</Child>
+			<Child Name="XtraFormTheThuVien" Owner="{D33A3D71-506D-49FE-85B5-607F884716E8}">
+				<Child Name="textEditTimDocGia" Owner="{274DF61B-77C3-4B57-9424-401F1DE69B78}">
+					<Child Name="TextBoxMaskBox" Owner="{88A69C69-B539-46CB-BCA4-309F7C28DCAE}" />
+				</Child>
+				<Child Name="pictureBox1" Owner="{D4A9DF5A-E224-4000-A923-209B16AE60DE}" />
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{80E81C48-E34C-41BD-ADA5-C509BD7FC480}">
+			<Child Name="wndShell_TrayWnd" Owner="{B49C8DEA-F4F7-4059-9ABB-2756C8E68991}">
+				<Child Name="DesktopWindowXamlSource" Owner="{F589BA3B-B4CB-4C7A-943C-7F0D6F9F8C07}" />
+			</Child>
+		</Child>
+		<Child Name="Discord" Owner="{7F1B0F38-F007-4CFF-8127-3580FEEA0BFD}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{96A42AAF-909F-4902-BC92-E70B52EDA4EA}" />
+		</Child>
+		<Child Name="wmplayer" Owner="{CDF7E277-E2E4-4EA1-8970-D272897F27E8}">
+			<Child Name="wndWMPSkinHost" Owner="{EF58D790-DC5F-447C-AFA3-E0E6C9050A60}">
+				<Child Name="WMPPluginUIHost" Owner="{8A574C77-1071-4F34-B191-532473145423}">
+					<Child Name="CWmpControlCntr" Owner="{AB771C2F-56C6-441E-9143-E9BCD51E4AA4}">
+						<Child Name="WMPPluginUIHost" Owner="{0A844B08-92FD-4306-A064-E852E5C29877}">
+							<Child Name="CWmpControlCntr" Owner="{FD6B1E2F-5932-451C-BFEA-8AE62ADFE27A}">
+								<Child Name="EVRVideoHandler" Owner="{EDA3E71E-E489-49A7-877C-464582CE2784}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="wps" Owner="{85B1E220-E133-4270-86C9-55852296A428}">
+			<Child Name="wndXLMAIN" Owner="{9C7943D2-5D1F-4EBC-945F-E6BB5F23A7C3}" />
+		</Child>
+	</LogicalNodes>
+</Root>

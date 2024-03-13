@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="TC01" key="{160C1AB0-881C-4913-AA4D-7936F9ECD518}" path="TC01.tcKDTest" />
+		<child name="TC02" key="{018A42B4-F210-4B09-849B-465B06A19429}" path="TC02.tcKDTest" />
+		<child name="TC03" key="{A0B9A324-8F36-4849-9F4E-7F9FE887E6A6}" path="TC03.tcKDTest" />
+		<child name="TC04" key="{62854E97-AEC1-4E91-A44D-C013EEE10F93}" path="TC04.tcKDTest" />
+		<child name="TC05" key="{588D2204-B554-4D8D-AE87-52254C21C27B}" path="TC05.tcKDTest" />
+		<child name="TC06" key="{05829BA5-F1BA-45D3-92D3-85548516A259}" path="TC06.tcKDTest" />
+		<child name="TC07" key="{1E45307F-4B34-4989-AFDC-55D3F74F0523}" path="TC07.tcKDTest" />
+		<child name="TC08" key="{BE32CAD7-9D16-434C-96ED-354FBB96FB87}" path="TC08.tcKDTest" />
+		<child name="TC09" key="{C8861991-84F9-4F21-A091-3ECFDD9C0954}" path="TC09.tcKDTest" />
+		<child name="TC10" key="{0B5D3F93-6B61-489A-A724-967855CBDFD6}" path="TC10.tcKDTest" />
+		<child name="TC11" key="{255285B8-5B8A-40A6-BAFA-0387E2D30FA8}" path="TC11.tcKDTest" />
+	</children>
+</Root>

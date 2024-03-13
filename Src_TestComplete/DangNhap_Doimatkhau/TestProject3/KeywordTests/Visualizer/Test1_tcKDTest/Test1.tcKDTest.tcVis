@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{11D6CCF9-D78B-437E-912F-24DDA4CDE369}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45236.662037037" objectName="Aliases.GUI.FormLogin.textBoxUsername" objectLeft="380" objectTop="419" objectRight="841" objectBottom="451" clickPointX="-80" clickPointY="-80" imageFileName="tcvi9730343786240.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45236.6620717593" objectName="Aliases.GUI.FormLogin.buttonDangNhap" objectLeft="380" objectTop="537" objectRight="841" objectBottom="618" clickPointX="600" clickPointY="603" imageFileName="tcvi9730864086241.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45236.6622685185" objectName="Aliases.GUI.dlg.btnOK" objectLeft="246" objectTop="149" objectRight="359" objectBottom="184" clickPointX="291" clickPointY="161" imageFileName="tcvi9732490686242.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45236.6622916667" objectName="Aliases.GUI.FormLogin.pictureBox1" objectLeft="1137" objectTop="41" objectRight="1212" objectBottom="98" clickPointX="1182" clickPointY="80" imageFileName="tcvi9732734386243.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

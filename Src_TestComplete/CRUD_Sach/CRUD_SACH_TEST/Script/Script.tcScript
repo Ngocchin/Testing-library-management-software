@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Test_ButtonThem" key="{2F7B78C0-55BA-473C-9C0A-B2837FF7ED87}" path="Test_ButtonThem.js" />
+		<child name="Test_ButtonSua" key="{0CACEEB7-7916-4DBF-B1B5-097F6C5694A5}" path="Test_ButtonSua.js" />
+		<child name="Test_ButtonXoa" key="{96652311-1F95-4E19-92BD-CB988BDA886D}" path="Test_ButtonXoa.js" />
+	</children>
+</Root>

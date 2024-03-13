@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{64D764E4-722E-49C0-AF75-1F837982E2A6}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{9F7F32ED-A6DE-41D1-9C18-ADC938B4B1D2}">
+			<config nodeName="setup" autorunOnRecording="True" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\lycam\OneDrive\Desktop\TraSach" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\lycam\OneDrive\Desktop\TraSach" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\lycam\OneDrive\Desktop\TraSach" />
+					<param name="Simple" fileName="setup.exe" filePath="C:\Users\lycam\OneDrive\Desktop\TraSach\" parameters="" workFolder="C:\Users\lycam\OneDrive\Desktop\TraSach" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

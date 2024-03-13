@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{C8861991-84F9-4F21-A091-3ECFDD9C0954}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45243.642337963" objectName="Aliases.GUI.XtraFormQuanLySach.dataGridViewSach" objectLeft="254" objectTop="509" objectRight="1110" objectBottom="769" clickPointX="499" clickPointY="601" imageFileName="tcvi12078687108600.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45243.6425925926" objectName="Aliases.GUI.XtraFormQuanLySach.simpleButtonXoa" objectLeft="875" objectTop="349" objectRight="969" objectBottom="378" clickPointX="934" clickPointY="363" imageFileName="tcvi12100765108602.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

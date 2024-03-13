@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{E8424CB0-2740-4E52-B12B-5459B7D35715}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="145" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.GUI.XtraFormQuanLySach.textEditTenSach.TextBoxMaskBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.GUI.XtraFormQuanLySach.textEditTenSach.TextBoxMaskBox" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.GUI.XtraFormQuanLySach.textEditSoLuongTon.TextBoxMaskBox" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.GUI.XtraFormQuanLySach.textEditSoLuongMuon" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="wText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.GUI.XtraFormQuanLySach.simpleButtonThem.EventClick" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="ClrFullClassName" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="System.Object" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.GUI.XtraFormQuanLySach.simpleButtonThem;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.GUI.dlg.Static" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="WndCaption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Các trường nhập không được để trống." />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.GUI.dlg.btnOK;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{9CA1A734-2196-4B52-B5FB-5EBA9D8D2B2B}" />
+</Root>

@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 13">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage8_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="370"/>
+					<Prp name="click point x" type="I" value="689"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.simpleButtonThemMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.447705706"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+					<Prp name="object right" type="I" value="746"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object bottom" type="I" value="405"/>
+					<Prp name="click point y" type="I" value="387"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="633"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="371"/>
+					<Prp name="click point x" type="I" value="690"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.simpleButtonThemMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.4470717593"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi12813937503246410.png"/>
+					<Prp name="object right" type="I" value="746"/>
+					<Prp name="line #" type="I" value="22"/>
+					<Prp name="object bottom" type="I" value="406"/>
+					<Prp name="click point y" type="I" value="383"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="633"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="13"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.simpleButtonThemMuonSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;simpleButtonThemMuonSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393738657"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="22"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{D3B2BE59-DB8A-4D87-BA8F-3D1AA87EF9EC}"/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage1_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="482"/>
+					<Prp name="click point x" type="I" value="521"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxPassword"/>
+					<Prp name="datetime" type="D" value="45240.4476655787"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object bottom" type="I" value="514"/>
+					<Prp name="click point y" type="I" value="509"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="482"/>
+					<Prp name="click point x" type="I" value="521"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxPassword"/>
+					<Prp name="datetime" type="D" value="45240.4463657407"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281332375324641.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="object bottom" type="I" value="514"/>
+					<Prp name="click point y" type="I" value="509"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (94, 18) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.FormLogin.textBoxPassword&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;FormLogin&quot;).WinFormsObject(&quot;textBoxPassword&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393329051"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage5_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="266"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4476865394"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="520"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="279"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4464236111"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281337437324645.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="13"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="525"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="message" type="S" value="The grid cell (0, 'ID') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393548148"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="13"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 10">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: wValue(0, 1) equals (case-sensitive) &quot;Cho tôi xin một vé đi tuổi thơ&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach.wValue(0, 1)&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{8613EBB2-9165-4483-8058-06E7BB09EC10}'&gt;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;wValue(0, 1)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.7393685764"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="17"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage2_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="482"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxPassword"/>
+					<Prp name="datetime" type="D" value="45240.4476669097"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object bottom" type="I" value="514"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="482"/>
+					<Prp name="click point x" type="I" value="-119"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxPassword"/>
+					<Prp name="datetime" type="D" value="45240.4463657407"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281332593324642.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="object bottom" type="I" value="514"/>
+					<Prp name="click point y" type="I" value="-119"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="message" type="S" value="The value of the MuonSach.MuonSach.Password1 variable was entered in the text editor."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.FormLogin.textBoxPassword&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;FormLogin&quot;).WinFormsObject(&quot;textBoxPassword&quot;))"/>
+			<Prp name="date" type="D" value="45240.739333912"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 14">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="148"/>
+					<Prp name="click point x" type="I" value="1107"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon"/>
+					<Prp name="datetime" type="D" value="45240.4477082986"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage9.png"/>
+					<Prp name="object right" type="I" value="1302"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object bottom" type="I" value="420"/>
+					<Prp name="click point y" type="I" value="197"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="969"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="149"/>
+					<Prp name="click point x" type="I" value="1089"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon"/>
+					<Prp name="datetime" type="D" value="45240.4470949074"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi12813957813246411.png"/>
+					<Prp name="object right" type="I" value="1302"/>
+					<Prp name="line #" type="I" value="24"/>
+					<Prp name="object bottom" type="I" value="421"/>
+					<Prp name="click point y" type="I" value="195"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="969"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="14"/>
+			<Prp name="message" type="S" value="The grid cell (0, 'TENSACH') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSachChon&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393764699"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="24"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 11">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: Enabled equals true."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuon...impleButtonThemMuonSach.Enabled&lt;b&gt; equals &lt;/b&gt;true.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{3191AA95-593F-4588-A5F7-E33F58A0001D}'&gt;Aliases.GUI.XtraFormMuonSach.simpleButtonThemMuonSach&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Enabled&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;true&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;true&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.7393703935"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="19"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture3.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 15">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="15"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: wSelection equals (case-sensitive) &quot;Cho tôi xin một vé đi tuổi thơ&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuon...ewTextBoxEditingControl.wSelection&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{4F4A02EB-78A4-426E-A27C-B10CFDDE1C7E}'&gt;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon.Panel.DataGridViewTextBoxEditingControl&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;wSelection&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;Cho tôi xin một vé đi tuổi thơ&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.7393788889"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="26"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture5.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage3_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="537"/>
+					<Prp name="click point x" type="I" value="610"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.buttonDangNhap"/>
+					<Prp name="datetime" type="D" value="45240.4476681018"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object bottom" type="I" value="618"/>
+					<Prp name="click point y" type="I" value="577"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="537"/>
+					<Prp name="click point x" type="I" value="557"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.buttonDangNhap"/>
+					<Prp name="datetime" type="D" value="45240.4463657407"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281332796324643.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="object bottom" type="I" value="618"/>
+					<Prp name="click point y" type="I" value="573"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.FormLogin.buttonDangNhap&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;FormLogin&quot;).WinFormsObject(&quot;buttonDangNhap&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393354167"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="message" type="S" value="The application &quot;D:\HK1Nam4\KiemDinhPhanMem\QuanLyThuVien\QLTV\QLTV\GUI\bin\Debug\GUI.exe&quot; started."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="The process ID is 24232."/>
+			<Prp name="date" type="D" value="45240.739319537"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 16">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="187"/>
+					<Prp name="click point x" type="I" value="1138"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon.Panel.DataGridViewTextBoxEditingControl"/>
+					<Prp name="datetime" type="D" value="45240.4477123843"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage10.png"/>
+					<Prp name="object right" type="I" value="1180"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object bottom" type="I" value="208"/>
+					<Prp name="click point y" type="I" value="199"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="1037"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="188"/>
+					<Prp name="click point x" type="I" value="1137"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon.Panel.DataGridViewTextBoxEditingControl"/>
+					<Prp name="datetime" type="D" value="45240.4472453704"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi12814081253246412.png"/>
+					<Prp name="object right" type="I" value="1180"/>
+					<Prp name="line #" type="I" value="27"/>
+					<Prp name="object bottom" type="I" value="209"/>
+					<Prp name="click point y" type="I" value="200"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="1037"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="16"/>
+			<Prp name="message" type="S" value="The window was clicked with the right mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (67, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon.Panel.DataGridViewTextBoxEditingControl&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSachChon&quot;).WinFormsObject(&quot;Panel&quot;, &quot;&quot;).WinFormsObject(&quot;DataGridViewTextBoxEditingControl&quot;, &quot;&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393799653"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="27"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 18">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="18"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: wValue(0, 1) equals (case-sensitive) &quot;1&quot;."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuon....dataGridViewDSSachChon.wValue(0, 1)&lt;b&gt; equals (case-sensitive) &lt;/b&gt;&quot;1&quot;.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{B9BEE5E8-9171-4AA3-AF25-29EB78F86873}'&gt;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;wValue(0, 1)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals (case-sensitive)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;&quot;1&quot;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.7393850231"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="29"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture6.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 17">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="148"/>
+					<Prp name="click point x" type="I" value="1142"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon"/>
+					<Prp name="datetime" type="D" value="45240.4477143634"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage11.png"/>
+					<Prp name="object right" type="I" value="1302"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object bottom" type="I" value="420"/>
+					<Prp name="click point y" type="I" value="169"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="969"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="149"/>
+					<Prp name="click point x" type="I" value="1142"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon"/>
+					<Prp name="datetime" type="D" value="45240.4472685185"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi12814102183246413.png"/>
+					<Prp name="object right" type="I" value="1302"/>
+					<Prp name="line #" type="I" value="28"/>
+					<Prp name="object bottom" type="I" value="421"/>
+					<Prp name="click point y" type="I" value="170"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="969"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="17"/>
+			<Prp name="message" type="S" value="The grid column header 'TENSACH' was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (73, 13) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSachChon&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSachChon&quot;))"/>
+			<Prp name="date" type="D" value="45240.739382419"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="28"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage6_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="416"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4476891551"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="520"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="398"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4466203704"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281353937324647.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="14"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="522"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="message" type="S" value="The grid cell (0, 'TENSACH') was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393573611"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="14"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="419"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxUsername"/>
+					<Prp name="datetime" type="D" value="45240.4476644213"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object bottom" type="I" value="451"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="419"/>
+					<Prp name="click point x" type="I" value="-119"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.FormLogin.textBoxUsername"/>
+					<Prp name="datetime" type="D" value="45240.4463657407"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281332109324640.png"/>
+					<Prp name="object right" type="I" value="841"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="object bottom" type="I" value="451"/>
+					<Prp name="click point y" type="I" value="-119"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="380"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="message" type="S" value="The text 'a' was entered in the text editor."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.FormLogin.textBoxUsername&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;FormLogin&quot;).WinFormsObject(&quot;textBoxUsername&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393314005"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage7_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="416"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4476957292"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage7.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="520"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="471"/>
+					<Prp name="click point x" type="I" value="444"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach"/>
+					<Prp name="datetime" type="D" value="45240.4468287037"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281372140324648.png"/>
+					<Prp name="object right" type="I" value="1285"/>
+					<Prp name="line #" type="I" value="16"/>
+					<Prp name="object bottom" type="I" value="764"/>
+					<Prp name="click point y" type="I" value="522"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="128"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="message" type="S" value="The grid cell (0, 'TENSACH') was clicked with the right mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;dataGridViewDSSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393653935"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="16"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage4_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="107"/>
+					<Prp name="click point x" type="I" value="1665"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMainThuThu.simpleButtonMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.4476745486"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="object right" type="I" value="1755"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="click point y" type="I" value="124"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="1575"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="107"/>
+					<Prp name="click point x" type="I" value="1131"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMainThuThu.simpleButtonMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.4463773148"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi1281333843324644.png"/>
+					<Prp name="object right" type="I" value="1755"/>
+					<Prp name="line #" type="I" value="10"/>
+					<Prp name="object bottom" type="I" value="142"/>
+					<Prp name="click point y" type="I" value="76"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="1575"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.XtraFormMainThuThu.simpleButtonMuonSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMainThuThu&quot;).WinFormsObject(&quot;simpleButtonMuonSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393454977"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 12">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: Enabled equals true."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuon...simpleButtonXoaMuonSach.Enabled&lt;b&gt; equals &lt;/b&gt;true.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{32AA4FDA-94B4-4AA1-9FE2-A41F660C6DE0}'&gt;Aliases.GUI.XtraFormMuonSach.simpleButtonXoaMuonSach&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Enabled&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;true&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;true&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.7393721181"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="21"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture4.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 19">
+			<Node name="visualizer">
+				<Node name="diff">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12_Dif.png"/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="current">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="370"/>
+					<Prp name="click point x" type="I" value="842"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.simpleButtonXoaMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.4477185648"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="visImage12.png"/>
+					<Prp name="object right" type="I" value="899"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object bottom" type="I" value="405"/>
+					<Prp name="click point y" type="I" value="387"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="786"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+				<Node name="original">
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="object top" type="I" value="371"/>
+					<Prp name="click point x" type="I" value="869"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object name" type="S" value="Aliases.GUI.XtraFormMuonSach.simpleButtonXoaMuonSach"/>
+					<Prp name="datetime" type="D" value="45240.4474421296"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="image file name" type="S" value="tcvi12814251253246414.png"/>
+					<Prp name="object right" type="I" value="899"/>
+					<Prp name="line #" type="I" value="30"/>
+					<Prp name="object bottom" type="I" value="406"/>
+					<Prp name="click point y" type="I" value="390"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="object left" type="I" value="786"/>
+					<Prp name="rect color" type="I" value="255"/>
+				</Node>
+			</Node>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="19"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.GUI.XtraFormMuonSach.simpleButtonXoaMuonSach&#xA;(Sys.Process(&quot;GUI&quot;).WinFormsObject(&quot;XtraFormMuonSach&quot;).WinFormsObject(&quot;simpleButtonXoaMuonSach&quot;))"/>
+			<Prp name="date" type="D" value="45240.7393866088"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="30"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Node name="message 8">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: wValue(0, 0) equals 1."/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;img style = &quot;width: 14px; height: 14px; vertical-align: text-bottom; margin: 2px;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wIUBiMun01WOAAAAlZJREFUWMPdly1s20AUx/+ODCptij0FGERrKhsEbF2mTQqoWsk8JIXugAOTkRiabTAwJWvZErAGriTcUqKCkq1KBwJcpZ0KDKr5Kk0qsOShWf64+CNzFWnH7Du/3//ee773jnFdF+scBax5sGkXEscWT6yBObENTImBe4cE5ossh11Oxh4v40BoSRzLX6WxyySFgDi2qJuaObKGmXamCCp6Uj9RSKyA8d2p25m3IrtNO4osh6PqAI1Sk8ksQDc19/j2MJc4t8td9KQ+kzoJ84QDwPHtIXRTc1N5YHx36r77sf8oGf/lxddIOAICiGOL2+db5qoxT5MTs/oikJiFkOsfDQ4A9w6BbmomNQeIY4tZf7W4neqVD3j5pBaZG1lDEMcWIwJOrIGZF3z8yoBe+YhxzaCK8LM8ARPbyA2+/fQ1AIBjeYxrBoosF1jnZ3kCpmS5ANoukuBxw88q+BOEZnTy5humb7/jU/VzZjhxbDQu5Iht/3NsNfQbPRBaVBFJ8MvfF1TbNw8LN1bA841KxGhYxKpwANjc2GJiBfx8uEZn3oq8/yviX+DUk3DzjHdpeaAIKo6qg7Q9Qyp4keVws2MHPbDLydTFI2tI9cSq8DDLE7DHy0s/SBKR1e1+lhcC4thi5eyZmdTlhMORFQ4A1zu/vILkeYBj+StFUGM/DHtiFbgiqPBXw5XKsSKoeF/W0Jm3MsFp5XjtDUnkHGiUmky73M0d3i53qc0p9SDqSf1cRcQ1pWtvy2OLUaPUZGb1hZT0dyxL1Fl9IcXBU92M1n41++9vx38AoNJrUz8FYVwAAAAASUVORK5CYII=&quot;&gt;&lt;b&gt;passed&lt;/b&gt;: Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach.wValue(0, 0)&lt;b&gt; equals &lt;/b&gt;1.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;div class=&quot;table-border full-width&quot;&gt;&lt;table class=&quot;table-borderless table-vertical&quot;&gt;&lt;tr&gt;&lt;th style=&quot;width: 16em;&quot;&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{94DFBE6E-301D-45DB-A25D-8E82C9894E11}.{8613EBB2-9165-4483-8058-06E7BB09EC10}'&gt;Aliases.GUI.XtraFormMuonSach.dataGridViewDSSach&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;wValue(0, 0)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;1&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;&lt;span style=&quot;white-space: pre-wrap; &quot;&gt;1&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;"/>
+			<Prp name="date" type="D" value="45240.739361956"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="line no" type="I" value="15"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="priority" type="I" value="300"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>

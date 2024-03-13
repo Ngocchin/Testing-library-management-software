@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{A77087AC-695F-4A0B-96D4-75F26A090850}">
+	<children>
+		<child name="CRUD_SACH_TEST" key="{0470E925-3619-4D5F-BD18-1FF612CB8B26}" path="CRUD_SACH_TEST\CRUD_SACH_TEST.mds" />
+	</children>
+	<testItems key="{37A0E1E3-7C67-437C-BFA1-ACF30D976F30}">
+		<children>
+			<testItem key="{0470E925-3619-4D5F-BD18-1FF612CB8B26}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{70155644-8A11-492A-9995-E382CA31BC23}" />
+	<analysis key="{6FCA0099-11CA-4C81-8BFF-8632F503BA10}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

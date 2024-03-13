@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{56F214AC-E309-4582-B065-5929B5C370EE}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45236.665787037" objectName="Aliases.GUI.FormLogin.textBoxUsername" objectLeft="380" objectTop="419" objectRight="841" objectBottom="451" clickPointX="-236" clickPointY="-236" imageFileName="tcvi9762893781000.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45236.6658333333" objectName="Aliases.GUI.FormLogin.textBoxPassword" objectLeft="380" objectTop="482" objectRight="841" objectBottom="514" clickPointX="443" clickPointY="486" imageFileName="tcvi9763339081001.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45236.6658449074" objectName="Aliases.GUI.FormLogin.textBoxPassword" objectLeft="380" objectTop="482" objectRight="841" objectBottom="514" clickPointX="-236" clickPointY="-236" imageFileName="tcvi9763401581002.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="45236.6658564815" objectName="Aliases.GUI.FormLogin.buttonDangNhap" objectLeft="380" objectTop="537" objectRight="841" objectBottom="618" clickPointX="489" clickPointY="552" imageFileName="tcvi9763576581003.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45236.6660416667" objectName="Aliases.GUI.dlg.btnOK" objectLeft="132" objectTop="149" objectRight="245" objectBottom="184" clickPointX="185" clickPointY="170" imageFileName="tcvi9765150081004.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45236.6660532407" objectName="Aliases.GUI.FormLogin.pictureBox1" objectLeft="1137" objectTop="41" objectRight="1212" objectBottom="98" clickPointX="1172" clickPointY="50" imageFileName="tcvi9765239081005.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

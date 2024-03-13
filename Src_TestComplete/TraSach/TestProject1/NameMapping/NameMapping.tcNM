@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{7747F30F-BB9B-41CC-96AD-8C1D3D2398B9}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="dfsvc" Key="{C52892F9-4AE5-4031-BD84-7D046E61BC3D}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="dfsvc" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="TrustManagerPromptUI" Key="{BECC55A4-F612-4B1A-BC95-B05258F1BB1F}">
+								<Image FileName="-103052306" Left="0" Top="0" Right="698" Bottom="483" />
+								<TypeInfo Item0="{EED85911-20EC-4C0D-B73F-77F7B2CE72AD}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="TrustManagerPromptUI" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="tableLayoutPanelOuter" Key="{2692D7B5-0CFD-4607-9696-6B3785FD26E5}">
+										<Image FileName="-1872430752" Left="9" Top="38" Right="689" Bottom="455" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="tableLayoutPanelOuter" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="tableLayoutPanelButtons" Key="{410E72E0-70AF-482E-BD5D-BCFD7175B3FA}">
+												<Image FileName="-1872430752" Left="417" Top="343" Right="673" Bottom="378" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="tableLayoutPanelButtons" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="btnInstall" Key="{C9CC22C8-6CCC-451C-A8CD-D7A461A6EFBD}">
+														<Image FileName="-1872430752" Left="417" Top="343" Right="541" Bottom="378" />
+														<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="btnInstall" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{04009769-722A-4BD8-BC15-212FCBD72C05}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="page3YouCannotStartApplicationFr" Key="{6E81FD83-C19A-4DF8-99CF-D9DB9FAF7428}">
+								<Image FileName="-1410345807" Left="0" Top="136" Right="1920" Bottom="1019" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.youtube.com/watch*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelContent" Key="{8B84FE8D-E3FF-4EAC-8037-62507B0B179E}" ExtendedFind="True">
+										<Image FileName="-1410345807" Left="0" Top="206" Right="1899" Bottom="2949" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="content" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelPlayerContainer" Key="{ADE9848B-DA6C-42EE-B996-5DC718758E9B}" ExtendedFind="True">
+												<Image FileName="-1410345807" Left="138" Top="236" Right="1228" Bottom="850" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="idStr">
+														<Value Value="player-container" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="videoWwwYoutubeCom" Key="{1F391890-B38F-47B7-AC07-CF8356A9FA9C}" ExtendedFind="True">
+														<Image FileName="-1410345807" Left="138" Top="236" Right="1228" Bottom="850" />
+														<TypeInfo Item0="{0F885421-FB6A-4C71-89E7-DA1C3FEA06AE}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Video" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="panelThanhTrTTMKiM" Key="{7F5F1E8B-304A-4814-80D0-A17F0F114EED}" ExtendedFind="True">
+														<Image FileName="1441268100" Left="153" Top="785" Right="1213" Bottom="791" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="role">
+																<Value Value="slider" />
+															</Property>
+															<Property Name="title">
+																<Value Value="" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{AF277397-EC1F-43EB-B601-CC9A30237EBF}" ExtendedFind="True">
+																<Image FileName="-1547935588" Left="153" Top="782" Right="1213" Bottom="793" />
+																<TypeInfo Item0="{0F885421-FB6A-4C71-89E7-DA1C3FEA06AE}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="1" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panel046" Key="{2CAE0C0B-B46E-428C-A0D6-56E10F307003}" ExtendedFind="True">
+														<Image FileName="1441268100" Left="153" Top="786" Right="1213" Bottom="850" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="contentText">
+																<Value Value="30003A00350039000A0030003A00350039000A002F000A0031003A00310034000A0022200A00580065006D00200074006F00E0006E0020006200D91E200076006900640065006F000A0054007200F11E6300200074006900BF1E70000A0022200A0022200A0043007500D91E6E0020001101C31E200062006900BF1E7400200074006800EA006D002000630068006900200074006900BF1E7400" Type="7" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="buttonPhTPhMTTK" Key="{C94209BB-50C0-47D5-9A9B-14B9033FE74D}" ExtendedFind="True">
+																<Image FileName="485315812" Left="153" Top="790" Right="211" Bottom="850" />
+																<TypeInfo Item0="{AC1BB901-8D6F-43F1-B635-836755000D05}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Button" />
+																	</Property>
+																	<Property Name="title">
+																		<Value Value="" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panel" Key="{B9466F7E-7604-4840-BF8F-E4A2F7B36936}" ExtendedFind="True">
+														<Image FileName="-1038638147" Left="138" Top="236" Right="1228" Bottom="774" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="20" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{A0792107-A87B-4312-AC9C-B9E7366D5E07}" ExtendedFind="True">
+																<Image FileName="-1038638147" Left="178" Top="292" Right="1188" Bottom="717" />
+																<TypeInfo Item0="{0F885421-FB6A-4C71-89E7-DA1C3FEA06AE}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Panel" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{9ACA15BF-CF1D-4A03-8E7E-9F3DD557DB58}">
+								<Image FileName="-746827500" Left="-9" Top="-9" Right="1929" Bottom="1029" />
+								<TypeInfo Item0="{EED85911-20EC-4C0D-B73F-77F7B2CE72AD}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{72C6458E-FAE1-4ED0-9AAB-ABE1B16A0FD1}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{1B457E49-9971-4FFE-BEC3-55BB9FBF307E}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{6E1BCAF3-E097-4422-AE25-66A5BF550F82}">
+										<TypeInfo Item0="{16C9C166-B006-40D9-A66F-9BCA8EAEC7ED}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndApps" Key="{001DDBCE-35EF-4DA4-86A1-DB6A5A905703}">
+								<Image FileName="1456625556" Left="0" Top="0" Right="638" Bottom="633" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="CabinetWClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Apps" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndTraSach" Key="{99621206-BB59-4374-AA29-7950D236D639}">
+								<Image FileName="156891715" Left="0" Top="0" Right="1231" Bottom="920" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="CabinetWClass" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="TraSach" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="GUI" Key="{06F85216-C19B-4EAE-A3C9-1825B1D9DAA3}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="GUI" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="FormLogin" Key="{C21C5CE0-2DE0-4765-8B91-B8E875B83AD9}">
+								<Image FileName="-707545777" Left="0" Top="0" Right="1016" Bottom="704" />
+								<TypeInfo Item0="{EED85911-20EC-4C0D-B73F-77F7B2CE72AD}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="FormLogin" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textBoxPassword" Key="{CE310E2F-56EA-4E27-8C0B-093822134C20}">
+										<TypeInfo Item0="{05A74D28-77CF-453F-BBEE-3D4855323113}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxPassword" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonDangNhap" Key="{900EC6D2-B124-427C-8F67-76A4735C1D36}">
+										<Image FileName="1172807242" Left="316" Top="447" Right="700" Bottom="515" />
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="buttonDangNhap" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textBoxUsername" Key="{BE1302CE-EFD9-4881-81DE-140C63A4AFE2}">
+										<Image FileName="492559334" Left="316" Top="349" Right="700" Bottom="375" />
+										<TypeInfo Item0="{05A74D28-77CF-453F-BBEE-3D4855323113}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxUsername" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormMainThuThu" Key="{F9190C7E-23B7-4FDE-83A4-61BD4CC96DF4}">
+								<Image FileName="-840717401" Left="0" Top="0" Right="1836" Bottom="908" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormMainThuThu" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="simpleButtonTraSach" Key="{F2780882-C805-4B36-AD95-C79551EE19E1}">
+										<Image FileName="-840717401" Left="1487" Top="88" Right="1637" Bottom="117" />
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonTraSach" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="XtraFormTraSach" Key="{7B4EA813-B62B-4C90-9CC6-54814CD8787C}">
+								<Image FileName="943086875" Left="0" Top="0" Right="1175" Bottom="670" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="XtraFormTraSach" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textBoxTenDocGiaTra" Key="{842BD6CC-2F98-46DF-8CBC-01B352620FEF}">
+										<Image FileName="943086875" Left="150" Top="137" Right="353" Bottom="163" />
+										<TypeInfo Item0="{05A74D28-77CF-453F-BBEE-3D4855323113}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="textBoxTenDocGiaTra" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="simpleButtonKiemTraDocGia" Key="{3A0CC79C-4F08-455D-A6FA-E830BB17DE35}">
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonKiemTraDocGia" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="dataGridViewDSMuon" Key="{6819965C-5F3E-44DF-A7AD-57B82724D5DC}">
+										<Image FileName="-1324817305" Left="32" Top="412" Right="1138" Bottom="611" />
+										<TypeInfo Item0="{AE05958B-70B6-4107-BAA3-550C3FE2A10E}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="dataGridViewDSMuon" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="simpleButtonXacNhanTra" Key="{6CB1F9D6-1F4C-4C75-B291-8BD2004E1197}">
+										<Image FileName="1556667347" Left="915" Top="618" Right="1139" Bottom="647" />
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="simpleButtonXacNhanTra" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="dataGridViewSachTra" Key="{3A509618-0E77-43ED-8296-660E82F023B3}">
+										<Image FileName="-1747185107" Left="838" Top="96" Right="1138" Bottom="365" />
+										<TypeInfo Item0="{AE05958B-70B6-4107-BAA3-550C3FE2A10E}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="dataGridViewSachTra" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{349196CD-31B3-44B0-9163-C8AC385A322A}">
+								<Image FileName="1454509592" Left="0" Top="0" Right="166" Bottom="175" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="btnOK" Key="{8BD7F984-A90B-432E-96EB-1AF2AC1C6F3C}">
+										<Image FileName="1454509592" Left="43" Top="124" Right="137" Bottom="153" />
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="ThreadExceptionDialog" Key="{C54D5294-8B51-49AF-B8BF-F84BCC8D06B7}">
+								<Image FileName="520834740" Left="0" Top="0" Right="568" Bottom="251" />
+								<Properties>
+									<Property Name="ClrFullClassName">
+										<Value Value="System.Windows.Forms.ThreadExceptionDialog" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Trả sách" />
+									</Property>
+									<Property Name="Index">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button" Key="{CEB3DA9B-AD88-45E2-B899-D78AE44A19CB}">
+										<Image FileName="520834740" Left="292" Top="202" Right="417" Bottom="231" />
+										<TypeInfo Item0="{BEFCA0BD-DF7D-4D46-A2CA-DCEC0FBE9AE6}" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="System.Windows.Forms.Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Continue" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="UltraViewer_Desktop" Key="{4A468817-B7DF-4231-93A8-854DD22D0253}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="UltraViewer_Desktop" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="frmMain" Key="{0C866E60-EF14-457A-83DB-DC29704D9FB2}">
+								<TypeInfo Item0="{EED85911-20EC-4C0D-B73F-77F7B2CE72AD}" />
+								<Properties>
+									<Property Name="NativeVBObject.Name">
+										<Value Value="frmMain" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="frmMessageBox" Key="{AE400EFF-93EB-4A4F-A0D0-6DBDDAAD99A4}">
+								<Image FileName="-1471363961" Left="0" Top="0" Right="505" Bottom="197" />
+								<Properties>
+									<Property Name="NativeVBObject.Name">
+										<Value Value="frmMessageBox" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="cmdYes" Key="{7A7B9380-44F8-4E7C-81D1-A73013E8A866}">
+										<Image FileName="-1471363961" Left="253" Top="152" Right="364" Bottom="183" />
+										<TypeInfo Item0="{16C9C166-B006-40D9-A66F-9BCA8EAEC7ED}" />
+										<Properties>
+											<Property Name="NativeVBObject.Name">
+												<Value Value="cmdYes" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Microsoft_Windows_StartMenuExperienceHost" Key="{946E56D8-B231-4E3A-9C3C-3E91F1EAC8DF}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Microsoft.Windows.StartMenuExperienceHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Start" Key="{E85142E6-F0E9-4D46-A122-574889BD936D}">
+								<Image FileName="-1857412119" Left="0" Top="0" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="XAML" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Windows.UI.Core.CoreWindow" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Start" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="LauncherFrameXAMLWindow" Key="{D6822270-5B66-44D6-9B32-05F9782D566C}">
+										<Image FileName="-1857412119" Left="558" Top="1034" Right="1361" Bottom="1942" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="window" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="LauncherFrameXAMLWindow" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="StartMenuPinnedList" Key="{16865A91-D19F-4715-919C-47E962129DE5}">
+												<Image FileName="-1857412119" Left="559" Top="1211" Right="1359" Bottom="1526" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="StartMenu.PinnedListAutomationPeer" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="custom" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="StartMenuPinnedList" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Pinned" Key="{F8DC6F32-48D4-4DDE-B63D-E55904A0E0D3}">
+														<Image FileName="-1857412119" Left="599" Top="1211" Right="1324" Bottom="1526" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="GridView" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="Pinned" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Settings" Key="{64BF7494-57C9-43B3-AB00-1598F7C3A3F5}">
+																<Image FileName="-1857412119" Left="1199" Top="1211" Right="1319" Bottom="1316" />
+																<TypeInfo Item0="{67493C9D-0AFA-4422-988B-8ED7FF9FDAE0}" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="GridViewItem" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="list item" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Settings" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="microsoft_windows_immersivecontrolpanel" Key="{7FAC5EB0-0281-487E-9F04-38A2F905B469}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="microsoft.windows.immersivecontrolpanel" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Settings" Key="{6ED8B19B-E1AE-4A7B-BF42-E0436CBEEA93}">
+								<Image FileName="1995703209" Left="0" Top="0" Right="1920" Bottom="1020" />
+								<Properties>
+									<Property Name="FrameworkId">
+										<Value Value="XAML" />
+									</Property>
+									<Property Name="ClassName">
+										<Value Value="Windows.UI.Core.CoreWindow" />
+									</Property>
+									<Property Name="LocalizedControlType">
+										<Value Value="window" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="Settings" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="PermanentNavigationView" Key="{A6A333D3-D595-485A-827B-6424D41DD1E9}">
+										<Image FileName="1995703209" Left="0" Top="0" Right="1920" Bottom="1020" />
+										<Properties>
+											<Property Name="FrameworkId">
+												<Value Value="XAML" />
+											</Property>
+											<Property Name="LocalizedControlType">
+												<Value Value="custom" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="PermanentNavigationView" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="PaneRoot" Key="{E960BC2E-EFC1-4843-9373-3081BA154986}">
+												<Image FileName="1995703209" Left="0" Top="0" Right="375" Bottom="1020" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="SplitViewPane" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="window" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="PaneRoot" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MenuItemsScrollViewer" Key="{70767246-0B8A-472F-BB06-8EA9FAE5420B}">
+														<Image FileName="1995703209" Left="0" Top="243" Right="375" Bottom="1011" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ScrollViewer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="MenuItemsScrollViewer" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="MenuItemsHost" Key="{4FA67B92-9298-4731-8B3D-FB052F562CAA}">
+																<Image FileName="1995703209" Left="20" Top="245" Right="370" Bottom="840" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="MenuItemsHost" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Time_language" Key="{A5C44AF8-43F4-4380-8876-6739C07F2C38}">
+																		<Image FileName="1995703209" Left="20" Top="596" Right="370" Bottom="641" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Microsoft.UI.Xaml.Controls.NavigationViewItem" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="list item" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Time_language" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="Time_language" Key="{223201C5-94D1-40D0-B7FE-D2D171D00652}">
+																				<Image FileName="1995703209" Left="75" Top="606" Right="208" Bottom="630" />
+																				<TypeInfo Item0="{67493C9D-0AFA-4422-988B-8ED7FF9FDAE0}" />
+																				<Properties>
+																					<Property Name="FrameworkId">
+																						<Value Value="XAML" />
+																					</Property>
+																					<Property Name="ClassName">
+																						<Value Value="TextBlock" />
+																					</Property>
+																					<Property Name="LocalizedControlType">
+																						<Value Value="text" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value Value="Time_language" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="ScrollViewer" Key="{4600B93D-1589-42D3-BF58-F92C0EBACB1A}">
+												<Image FileName="-1107654562" Left="375" Top="132" Right="1920" Bottom="1020" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="ScrollViewer" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="pane" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="ScrollViewer" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="settingPagesList" Key="{297AE4F3-24E2-47AD-9032-846454E67049}">
+														<Image FileName="-1107654562" Left="519" Top="258" Right="1777" Bottom="616" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ListView" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="list" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="settingPagesList" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Date_time" Key="{60C78AA9-45E9-4C2A-8D80-E63B4C64DA05}">
+																<Image FileName="-1107654562" Left="519" Top="258" Right="1777" Bottom="346" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ListViewItem" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="list item" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Date_time" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Date_time" Key="{025E1758-A99A-4F0F-9551-407B1A0E7524}">
+																		<Image FileName="-1107654562" Left="523" Top="259" Right="1772" Bottom="345" />
+																		<TypeInfo Item0="{67493C9D-0AFA-4422-988B-8ED7FF9FDAE0}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="NamedContainerAutomationPeer" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="group" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Date_time" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="LandmarkTarget" Key="{3E401C17-1232-447C-A176-243CC1002C91}">
+												<Image FileName="-1553460292" Left="408" Top="132" Right="1920" Bottom="1020" />
+												<Properties>
+													<Property Name="FrameworkId">
+														<Value Value="XAML" />
+													</Property>
+													<Property Name="ClassName">
+														<Value Value="LandmarkTarget" />
+													</Property>
+													<Property Name="LocalizedControlType">
+														<Value Value="group" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="LandmarkTarget" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="ItemsControlScrollViewer" Key="{BF0D7E8C-0FBE-444D-89FE-52C3501955C2}">
+														<Image FileName="-1553460292" Left="408" Top="132" Right="1920" Bottom="1020" />
+														<Properties>
+															<Property Name="FrameworkId">
+																<Value Value="XAML" />
+															</Property>
+															<Property Name="ClassName">
+																<Value Value="ScrollViewer" />
+															</Property>
+															<Property Name="LocalizedControlType">
+																<Value Value="pane" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value Value="ItemsControlScrollViewer" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="Set_time_automatically_2" Key="{4885BE15-6238-44DE-AAA3-680F7B077E65}">
+																<Image FileName="-1553460292" Left="1663" Top="272" Right="1753" Bottom="323" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="ToggleSwitch" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="toggle switch" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Set_time_automatically_2" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="SwitchThumb" Key="{59BCD5F7-7E94-470E-8AE8-DB61704E21AB}">
+																		<Image FileName="-1553460292" Left="1663" Top="272" Right="1753" Bottom="323" />
+																		<TypeInfo Item0="{67493C9D-0AFA-4422-988B-8ED7FF9FDAE0}" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Thumb" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="thumb" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="SwitchThumb" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="Set_the_date_and_time_manually" Key="{7DD84B2A-E6E4-4DDD-A919-282340D43E51}">
+																<Image FileName="-687673049" Left="524" Top="618" Right="1774" Bottom="703" />
+																<Properties>
+																	<Property Name="FrameworkId">
+																		<Value Value="XAML" />
+																	</Property>
+																	<Property Name="ClassName">
+																		<Value Value="NamedContainerAutomationPeer" />
+																	</Property>
+																	<Property Name="LocalizedControlType">
+																		<Value Value="group" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value Value="Set_the_date_and_time_manually" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Change" Key="{4D131FFA-BCE5-4625-A870-794FE46E1A35}">
+																		<Image FileName="-687673049" Left="1590" Top="642" Right="1753" Bottom="682" />
+																		<Properties>
+																			<Property Name="FrameworkId">
+																				<Value Value="XAML" />
+																			</Property>
+																			<Property Name="ClassName">
+																				<Value Value="Button" />
+																			</Property>
+																			<Property Name="LocalizedControlType">
+																				<Value Value="button" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value Value="Change" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="dfsvc" Owner="{C52892F9-4AE5-4031-BD84-7D046E61BC3D}">
+			<Child Name="TrustManagerPromptUI" Owner="{BECC55A4-F612-4B1A-BC95-B05258F1BB1F}">
+				<Child Name="tableLayoutPanelOuter" Owner="{2692D7B5-0CFD-4607-9696-6B3785FD26E5}">
+					<Child Name="tableLayoutPanelButtons" Owner="{410E72E0-70AF-482E-BD5D-BCFD7175B3FA}">
+						<Child Name="btnInstall" Owner="{C9CC22C8-6CCC-451C-A8CD-D7A461A6EFBD}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{04009769-722A-4BD8-BC15-212FCBD72C05}">
+			<Child Name="page3YouCannotStartApplicationFr" Owner="{6E81FD83-C19A-4DF8-99CF-D9DB9FAF7428}">
+				<Child Name="panelPlayerContainer" Owner="{ADE9848B-DA6C-42EE-B996-5DC718758E9B}">
+					<Child Name="videoWwwYoutubeCom" Owner="{1F391890-B38F-47B7-AC07-CF8356A9FA9C}" />
+					<Child Name="panelThanhTrTTMKiM" Owner="{7F5F1E8B-304A-4814-80D0-A17F0F114EED}">
+						<Child Name="panel" Owner="{AF277397-EC1F-43EB-B601-CC9A30237EBF}" />
+					</Child>
+					<Child Name="buttonPhTPhMTTK" Owner="{C94209BB-50C0-47D5-9A9B-14B9033FE74D}" />
+					<Child Name="panel" Owner="{A0792107-A87B-4312-AC9C-B9E7366D5E07}" />
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{9ACA15BF-CF1D-4A03-8E7E-9F3DD557DB58}" />
+		</Child>
+		<Child Name="explorer" Owner="{72C6458E-FAE1-4ED0-9AAB-ABE1B16A0FD1}">
+			<Child Name="wndShell_TrayWnd" Owner="{1B457E49-9971-4FFE-BEC3-55BB9FBF307E}">
+				<Child Name="DesktopWindowXamlSource" Owner="{6E1BCAF3-E097-4422-AE25-66A5BF550F82}" />
+			</Child>
+			<Child Name="wndApps" Owner="{001DDBCE-35EF-4DA4-86A1-DB6A5A905703}" />
+			<Child Name="wndTraSach" Owner="{99621206-BB59-4374-AA29-7950D236D639}" />
+		</Child>
+		<Child Name="GUI" Owner="{06F85216-C19B-4EAE-A3C9-1825B1D9DAA3}">
+			<Child Name="FormLogin" Owner="{C21C5CE0-2DE0-4765-8B91-B8E875B83AD9}">
+				<Child Name="textBoxPassword" Owner="{CE310E2F-56EA-4E27-8C0B-093822134C20}" />
+				<Child Name="buttonDangNhap" Owner="{900EC6D2-B124-427C-8F67-76A4735C1D36}" />
+				<Child Name="textBoxUsername" Owner="{BE1302CE-EFD9-4881-81DE-140C63A4AFE2}" />
+			</Child>
+			<Child Name="XtraFormMainThuThu" Owner="{F9190C7E-23B7-4FDE-83A4-61BD4CC96DF4}">
+				<Child Name="simpleButtonTraSach" Owner="{F2780882-C805-4B36-AD95-C79551EE19E1}" />
+			</Child>
+			<Child Name="XtraFormTraSach" Owner="{7B4EA813-B62B-4C90-9CC6-54814CD8787C}">
+				<Child Name="textBoxTenDocGiaTra" Owner="{842BD6CC-2F98-46DF-8CBC-01B352620FEF}" />
+				<Child Name="simpleButtonKiemTraDocGia" Owner="{3A0CC79C-4F08-455D-A6FA-E830BB17DE35}" />
+				<Child Name="dataGridViewDSMuon" Owner="{6819965C-5F3E-44DF-A7AD-57B82724D5DC}" />
+				<Child Name="simpleButtonXacNhanTra" Owner="{6CB1F9D6-1F4C-4C75-B291-8BD2004E1197}" />
+				<Child Name="dataGridViewSachTra" Owner="{3A509618-0E77-43ED-8296-660E82F023B3}" />
+			</Child>
+			<Child Name="dlg" Owner="{349196CD-31B3-44B0-9163-C8AC385A322A}">
+				<Child Name="btnOK" Owner="{8BD7F984-A90B-432E-96EB-1AF2AC1C6F3C}" />
+			</Child>
+			<Child Name="ThreadExceptionDialog" Owner="{C54D5294-8B51-49AF-B8BF-F84BCC8D06B7}">
+				<Child Name="Button" Owner="{CEB3DA9B-AD88-45E2-B899-D78AE44A19CB}" />
+			</Child>
+		</Child>
+		<Child Name="UltraViewer_Desktop" Owner="{4A468817-B7DF-4231-93A8-854DD22D0253}">
+			<Child Name="frmMain" Owner="{0C866E60-EF14-457A-83DB-DC29704D9FB2}" />
+			<Child Name="frmMessageBox" Owner="{AE400EFF-93EB-4A4F-A0D0-6DBDDAAD99A4}">
+				<Child Name="cmdYes" Owner="{7A7B9380-44F8-4E7C-81D1-A73013E8A866}" />
+			</Child>
+		</Child>
+		<Child Name="Microsoft_Windows_StartMenuExperienceHost" Owner="{946E56D8-B231-4E3A-9C3C-3E91F1EAC8DF}">
+			<Child Name="Start" Owner="{E85142E6-F0E9-4D46-A122-574889BD936D}">
+				<Child Name="LauncherFrameXAMLWindow" Owner="{D6822270-5B66-44D6-9B32-05F9782D566C}">
+					<Child Name="StartMenuPinnedList" Owner="{16865A91-D19F-4715-919C-47E962129DE5}">
+						<Child Name="Pinned" Owner="{F8DC6F32-48D4-4DDE-B63D-E55904A0E0D3}">
+							<Child Name="Settings" Owner="{64BF7494-57C9-43B3-AB00-1598F7C3A3F5}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="microsoft_windows_immersivecontrolpanel" Owner="{7FAC5EB0-0281-487E-9F04-38A2F905B469}">
+			<Child Name="Settings" Owner="{6ED8B19B-E1AE-4A7B-BF42-E0436CBEEA93}">
+				<Child Name="PermanentNavigationView" Owner="{A6A333D3-D595-485A-827B-6424D41DD1E9}">
+					<Child Name="PaneRoot" Owner="{E960BC2E-EFC1-4843-9373-3081BA154986}">
+						<Child Name="MenuItemsScrollViewer" Owner="{70767246-0B8A-472F-BB06-8EA9FAE5420B}">
+							<Child Name="MenuItemsHost" Owner="{4FA67B92-9298-4731-8B3D-FB052F562CAA}">
+								<Child Name="Time_language" Owner="{A5C44AF8-43F4-4380-8876-6739C07F2C38}">
+									<Child Name="Time_language" Owner="{223201C5-94D1-40D0-B7FE-D2D171D00652}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="ScrollViewer" Owner="{4600B93D-1589-42D3-BF58-F92C0EBACB1A}">
+						<Child Name="settingPagesList" Owner="{297AE4F3-24E2-47AD-9032-846454E67049}">
+							<Child Name="Date_time" Owner="{60C78AA9-45E9-4C2A-8D80-E63B4C64DA05}">
+								<Child Name="Date_time" Owner="{025E1758-A99A-4F0F-9551-407B1A0E7524}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="LandmarkTarget" Owner="{3E401C17-1232-447C-A176-243CC1002C91}">
+						<Child Name="ItemsControlScrollViewer" Owner="{BF0D7E8C-0FBE-444D-89FE-52C3501955C2}">
+							<Child Name="Set_time_automatically_2" Owner="{4885BE15-6238-44DE-AAA3-680F7B077E65}">
+								<Child Name="SwitchThumb" Owner="{59BCD5F7-7E94-470E-8AE8-DB61704E21AB}" />
+							</Child>
+							<Child Name="Set_the_date_and_time_manually" Owner="{7DD84B2A-E6E4-4DDD-A919-282340D43E51}">
+								<Child Name="Change" Owner="{4D131FFA-BCE5-4625-A870-794FE46E1A35}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
